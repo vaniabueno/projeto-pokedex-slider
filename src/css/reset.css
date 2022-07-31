@@ -1,0 +1,10 @@
+/* documento para resetar algumas propriedades, ideal fazer para todos os projetos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none; /* tirar os topicos */
+}
