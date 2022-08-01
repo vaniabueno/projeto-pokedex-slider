@@ -1,7 +1,7 @@
 @media (max-width:620px){
     /* aplicar a regra para tela com tamanho menor que 620px - regras para aplicativos móveis */
     .pokemon-slider {
-        padding: 0 0px;
+        padding: 0 -5px;
         gap: 10px;
     }
     .btn-seta {
@@ -25,4 +25,9 @@
    .cartao .informacoes .vida {
     font-size: 14px;
    }
+   .container-imagem{
+    max-height: 263px;
+    max-width: 259px;;
+   }
+
 }
